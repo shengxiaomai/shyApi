@@ -1,0 +1,21 @@
+[ {
+  "uid" : "dd27df6db5ab6d47",
+  "name" : "test_getUserInfo[18682115996]",
+  "time" : {
+    "start" : 1573455932652,
+    "stop" : 1573455932857,
+    "duration" : 205
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "b77a593e678f87ef",
+  "name" : "test_getUserInfo",
+  "time" : {
+    "start" : 1573268455008,
+    "stop" : 1573268455274,
+    "duration" : 266
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+} ]

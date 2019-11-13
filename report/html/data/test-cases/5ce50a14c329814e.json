@@ -1,0 +1,79 @@
+{
+  "uid" : "5ce50a14c329814e",
+  "name" : "test_getUserInfo[18682115996]",
+  "fullName" : "TestCase.test_getInfo.TestGetInfo#test_getUserInfo",
+  "historyId" : "d8569228dc16b0a77cbb421e00a6fe91",
+  "time" : {
+    "start" : 1573292869425,
+    "stop" : 1573292869697,
+    "duration" : 272
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7c9588af708e4f9c",
+      "name" : "stdout",
+      "source" : "7c9588af708e4f9c.txt",
+      "type" : "text/plain",
+      "size" : 489
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "测试获取用户信息"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestCase"
+  }, {
+    "name" : "suite",
+    "value" : "test_getInfo"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestGetInfo"
+  }, {
+    "name" : "host",
+    "value" : "xiaomaideMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "18340-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCase.test_getInfo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "mibole",
+    "value" : "'18682115996'"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5ce50a14c329814e.json",
+  "parameterValues" : [ "'18682115996'" ]
+}

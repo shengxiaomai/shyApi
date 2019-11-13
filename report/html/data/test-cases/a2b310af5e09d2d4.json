@@ -1,0 +1,76 @@
+{
+  "uid" : "a2b310af5e09d2d4",
+  "name" : "test_getUserInfo",
+  "fullName" : "TestCase.test_getInfo.TestGetInfo#test_getUserInfo",
+  "historyId" : "428785ec2e2ac650b6565698f3e920e7",
+  "time" : {
+    "start" : 1573267994509,
+    "stop" : 1573267994743,
+    "duration" : 234
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a4765c767c7e4acb",
+      "name" : "stdout",
+      "source" : "a4765c767c7e4acb.txt",
+      "type" : "text/plain",
+      "size" : 372
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "测试获取用户信息"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestCase"
+  }, {
+    "name" : "suite",
+    "value" : "test_getInfo"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestGetInfo"
+  }, {
+    "name" : "host",
+    "value" : "bogon"
+  }, {
+    "name" : "thread",
+    "value" : "17073-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCase.test_getInfo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a2b310af5e09d2d4.json",
+  "parameterValues" : [ ]
+}
