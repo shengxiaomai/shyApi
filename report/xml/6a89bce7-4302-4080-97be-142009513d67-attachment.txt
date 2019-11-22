@@ -1,1 +1,0 @@
-{'_v': '1.2.0', 'status': 200, 'msg': 'success', 'body': {'mobile': '18682115996', 'avatar': '', 'sex': 0, 'name': '小迈', 'enterprise': '', 'position': '', 'provinceId': '110000', 'provinceName': '北京', 'cityId': '110100', 'cityName': '北京市', 'countyId': '110101', 'countyName': '东城区', 'needToImprove': 2, 'tag': '大组长', 'isHelper': 2, 'token': ''}}

@@ -2,34 +2,55 @@
   "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
   "name" : "packages",
   "children" : [ {
-    "name" : "TestCase.test_getInfo",
+    "name" : "TestCase",
     "children" : [ {
-      "name" : "test_getUserInfo",
-      "uid" : "b77a593e678f87ef",
-      "parentUid" : "c5727ab4cba871103c6e4cf36ce62a7a",
-      "status" : "passed",
-      "time" : {
-        "start" : 1573268455008,
-        "stop" : 1573268455274,
-        "duration" : 266
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
+      "name" : "test_course",
+      "children" : [ {
+        "name" : "test_GetHeadlineLis",
+        "uid" : "1df6c06517dec41",
+        "parentUid" : "8fbd205e98681bb4a636837f5ffd6153",
+        "status" : "passed",
+        "time" : {
+          "start" : 1574425770484,
+          "stop" : 1574425770887,
+          "duration" : 403
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_GetCourseListByRootId[487377109979759325]",
+        "uid" : "6e41160cc446b837",
+        "parentUid" : "8fbd205e98681bb4a636837f5ffd6153",
+        "status" : "passed",
+        "time" : {
+          "start" : 1574425770891,
+          "stop" : 1574425771095,
+          "duration" : 204
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "487377109979759325" ]
+      } ],
+      "uid" : "8fbd205e98681bb4a636837f5ffd6153"
     }, {
-      "name" : "test_getUserInfo[18682115996]",
-      "uid" : "dd27df6db5ab6d47",
-      "parentUid" : "c5727ab4cba871103c6e4cf36ce62a7a",
-      "status" : "passed",
-      "time" : {
-        "start" : 1573455932652,
-        "stop" : 1573455932857,
-        "duration" : 205
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ "'18682115996'" ]
+      "name" : "test_getInfo",
+      "children" : [ {
+        "name" : "test_getUserInfo[18682115996]",
+        "uid" : "1fad40fb54b33fa8",
+        "parentUid" : "c5727ab4cba871103c6e4cf36ce62a7a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1574425771106,
+          "stop" : 1574425771301,
+          "duration" : 195
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'18682115996'" ]
+      } ],
+      "uid" : "c5727ab4cba871103c6e4cf36ce62a7a"
     } ],
-    "uid" : "TestCase.test_getInfo"
+    "uid" : "9fa14e2db0d1ecbd3a4c5f0825d2ac34"
   } ]
 }

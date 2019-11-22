@@ -2,29 +2,50 @@
   "uid" : "b1a8273437954620fa374b796ffaacdd",
   "name" : "behaviors",
   "children" : [ {
-    "name" : "测试获取用户信息",
+    "name" : "课程模块 获取每日速递列表",
     "children" : [ {
-      "name" : "test_getUserInfo",
-      "uid" : "b77a593e678f87ef",
-      "parentUid" : "76c192e9fdf73ac8a5be6dcb447adcff",
+      "name" : "test_GetHeadlineLis",
+      "uid" : "1df6c06517dec41",
+      "parentUid" : "a904534e159fc0d9f5850e843a649031",
       "status" : "passed",
       "time" : {
-        "start" : 1573268455008,
-        "stop" : 1573268455274,
-        "duration" : 266
+        "start" : 1574425770484,
+        "stop" : 1574425770887,
+        "duration" : 403
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
-    }, {
+    } ],
+    "uid" : "a904534e159fc0d9f5850e843a649031"
+  }, {
+    "name" : "课程模块 根据根目录查询所有二级目录下的所有课程",
+    "children" : [ {
+      "name" : "test_GetCourseListByRootId[487377109979759325]",
+      "uid" : "6e41160cc446b837",
+      "parentUid" : "0014ff796e597a8dae23ab983bfcf047",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574425770891,
+        "stop" : 1574425771095,
+        "duration" : 204
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "487377109979759325" ]
+    } ],
+    "uid" : "0014ff796e597a8dae23ab983bfcf047"
+  }, {
+    "name" : "测试获取用户信息",
+    "children" : [ {
       "name" : "test_getUserInfo[18682115996]",
-      "uid" : "dd27df6db5ab6d47",
+      "uid" : "1fad40fb54b33fa8",
       "parentUid" : "76c192e9fdf73ac8a5be6dcb447adcff",
       "status" : "passed",
       "time" : {
-        "start" : 1573455932652,
-        "stop" : 1573455932857,
-        "duration" : 205
+        "start" : 1574425771106,
+        "stop" : 1574425771301,
+        "duration" : 195
       },
       "flaky" : false,
       "newFailed" : false,

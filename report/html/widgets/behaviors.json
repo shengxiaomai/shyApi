@@ -1,15 +1,37 @@
 {
-  "total" : 1,
+  "total" : 3,
   "items" : [ {
+    "uid" : "a904534e159fc0d9f5850e843a649031",
+    "name" : "课程模块 获取每日速递列表",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "0014ff796e597a8dae23ab983bfcf047",
+    "name" : "课程模块 根据根目录查询所有二级目录下的所有课程",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
     "uid" : "76c192e9fdf73ac8a5be6dcb447adcff",
     "name" : "测试获取用户信息",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 1,
       "unknown" : 0,
-      "total" : 2
+      "total" : 1
     }
   } ]
 }
