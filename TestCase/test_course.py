@@ -17,8 +17,10 @@ class TestCourseApi:
 
     @allure.severity('blocker')
     @allure.story("课程模块 根据根目录查询所有二级目录下的所有课程")
-    @pytest.mark.parametrize("catalogueId", [487377109979759325])
+    @pytest.mark.parametrize("catalogueId", [487377109979759325,487378162112529117,487378079702844125])
     def test_GetCourseListByRootId(self,catalogueId):
         a = courseApi.getCourseListByRootId(catalogueId)
         assert a["msg"] == "success"
+
+
 
