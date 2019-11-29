@@ -1,0 +1,79 @@
+{
+  "uid" : "e10d58a8aeed9ca4",
+  "name" : "test_GetCourseListByRootId[487378162112529117]",
+  "fullName" : "TestCase.test_course.TestCourseApi#test_GetCourseListByRootId[487378162112529117]",
+  "historyId" : "a08594ca208aa151477f83f5ec3884ec",
+  "time" : {
+    "start" : 1574930881134,
+    "stop" : 1574930881314,
+    "duration" : 180
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d38683db22463b5f",
+      "name" : "stdout",
+      "source" : "d38683db22463b5f.txt",
+      "type" : "text/plain",
+      "size" : 1019
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "课程模块 根据根目录查询所有二级目录下的所有课程"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestCase"
+  }, {
+    "name" : "suite",
+    "value" : "test_course"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCourseApi"
+  }, {
+    "name" : "host",
+    "value" : "xiaomaideMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "18006-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCase.test_course"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "catalogueId",
+    "value" : "487378162112529117"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e10d58a8aeed9ca4.json",
+  "parameterValues" : [ "487378162112529117" ]
+}

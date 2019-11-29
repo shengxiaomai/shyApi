@@ -1,0 +1,69 @@
+{
+  "_v": "1.5.0",
+  "status": 200,
+  "msg": "success",
+  "body": {
+    "courseList": [
+      {
+        "courseId": "487580903896252624",
+        "catelogName": "\u672a\u6765\u4e4b\u661f",
+        "name": "\u54c8\u54c8",
+        "teacher": "\u54c8\u54c8",
+        "position": "",
+        "courseAccount": 2,
+        "picture": "http://audioapp.wangyangming.org.cn/video/c12b52341496c458dc9192901434dd19.png",
+        "userAccount": 0,
+        "catelogSort": 2,
+        "weight": 2
+      },
+      {
+        "courseId": "488859218636439768",
+        "catelogName": "\u672a\u6765\u4e4b\u661f",
+        "name": "\u5065\u5eb7\u8def",
+        "teacher": "\u4f60\u597d",
+        "position": "",
+        "courseAccount": 1,
+        "picture": "http://audioapp.wangyangming.org.cn/video/7f1b6a54a8f4a348250d0f4824a7939a.png",
+        "userAccount": 0,
+        "catelogSort": 2,
+        "weight": 0
+      },
+      {
+        "courseId": "489498267088847064",
+        "catelogName": "\u751f\u547d\u84dd\u6d77",
+        "name": "\u6d4b\u8bd51",
+        "teacher": "\u5c0f\u6d4b\u8bd5",
+        "position": "",
+        "courseAccount": 0,
+        "picture": "http://audioapp.wangyangming.org.cn/video/10ce8995d4fb3ecd74832468d001af3c.jpg",
+        "userAccount": 0,
+        "catelogSort": 0,
+        "weight": 0
+      },
+      {
+        "courseId": "490920055211557191",
+        "catelogName": "\u672a\u6765\u4e4b\u661f",
+        "name": "\u4e00\u4e2a\u6d4b\u8bd5\u8bfe\u7a0b",
+        "teacher": "\u4f5c\u8005\u540d\u79f0",
+        "position": "\u8eab\u4efd\u6807\u7b7e",
+        "courseAccount": 4,
+        "picture": "http://audioapp.wangyangming.org.cn/video/d2fb2ea9f7baa2ea46c312962d5d0bd5.png",
+        "userAccount": 0,
+        "catelogSort": 2,
+        "weight": 0
+      },
+      {
+        "courseId": "493236329732112607",
+        "catelogName": "\u672a\u6765\u4e4b\u661f",
+        "name": "\u4e00\u4e2a\u7a7a\u8bfe\u7a0b",
+        "teacher": "\u65a9\u8c78",
+        "position": "",
+        "courseAccount": 0,
+        "picture": "http://audioapp.wangyangming.org.cn/video/d2fb2ea9f7baa2ea46c312962d5d0bd5.png",
+        "userAccount": 0,
+        "catelogSort": 2,
+        "weight": 0
+      }
+    ]
+  }
+}

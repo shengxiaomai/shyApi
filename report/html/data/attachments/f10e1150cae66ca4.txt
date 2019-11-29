@@ -1,0 +1,23 @@
+{
+  "_v": "1.2.0",
+  "status": 200,
+  "msg": "success",
+  "body": {
+    "mobile": "18682115996",
+    "avatar": "http://audioapp.wangyangming.org.cn/headPic/457610a2911aaf7216a739f784b78452.jpg",
+    "sex": 0,
+    "name": "\u5c0f\u8fc8",
+    "enterprise": "",
+    "position": "",
+    "provinceId": "110000",
+    "provinceName": "\u5317\u4eac",
+    "cityId": "110100",
+    "cityName": "\u5317\u4eac\u5e02",
+    "countyId": "110101",
+    "countyName": "\u4e1c\u57ce\u533a",
+    "needToImprove": 2,
+    "tag": "\u5927\u7ec4\u957f",
+    "isHelper": 2,
+    "token": ""
+  }
+}

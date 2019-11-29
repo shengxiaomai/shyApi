@@ -1,0 +1,33 @@
+{
+  "_v": "1.5.0",
+  "status": 200,
+  "msg": "success",
+  "body": {
+    "courseList": [
+      {
+        "courseId": "487384966280250077",
+        "catelogName": "\u961f\u4f0d\u5efa\u8bbe",
+        "name": "\u76db\u79cb\u6d4b\u8bd5\u8bfe\u7a0b\uff0c\u52ff\u52a81234567890\u8da3\u5473",
+        "teacher": "\u76db\u79cb1234567890123",
+        "position": "123456789012345",
+        "courseAccount": 8,
+        "picture": "http://audioapp.wangyangming.org.cn/video/122de59a227b3a8cf1b247f41748f417.jpg",
+        "userAccount": 0,
+        "catelogSort": 0,
+        "weight": 4
+      },
+      {
+        "courseId": "490089540606755032",
+        "catelogName": "\u961f\u4f0d\u5efa\u8bbe",
+        "name": "\u6d4b\u8bd5\u8bfe\u7a0b\u5206\u4eab",
+        "teacher": "\u6d4b\u8bd5",
+        "position": "",
+        "courseAccount": 2,
+        "picture": "http://audioapp.wangyangming.org.cn/video/7f1b6a54a8f4a348250d0f4824a7939a.png",
+        "userAccount": 0,
+        "catelogSort": 0,
+        "weight": 0
+      }
+    ]
+  }
+}

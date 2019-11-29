@@ -1,0 +1,90 @@
+{
+  "uid" : "37db0ffd3d01d74e",
+  "name" : "test_getUserInfo[18682115996]",
+  "fullName" : "TestCase.test_getInfo.TestGetInfo#test_getUserInfo[18682115996]",
+  "historyId" : "024afde7f204345f563268fea6d34133",
+  "time" : {
+    "start" : 1574930931591,
+    "stop" : 1574930931772,
+    "duration" : 181
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f10e1150cae66ca4",
+      "name" : "stdout",
+      "source" : "f10e1150cae66ca4.txt",
+      "type" : "text/plain",
+      "size" : 569
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "测试获取用户信息"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestCase"
+  }, {
+    "name" : "suite",
+    "value" : "test_getInfo"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestGetInfo"
+  }, {
+    "name" : "host",
+    "value" : "xiaomaideMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "18047-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCase.test_getInfo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "mibole",
+    "value" : "'18682115996'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ {
+      "uid" : "8d0cc533470b72c4",
+      "status" : "broken",
+      "statusDetails" : "requests.exceptions.InvalidSchema: No connection adapters were found for 'api/live/app/getUserInfohttps://radio-api-demo.zlzgy.org.cn/'",
+      "time" : {
+        "start" : 1574930881517,
+        "stop" : 1574930881518,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "37db0ffd3d01d74e.json",
+  "parameterValues" : [ "'18682115996'" ]
+}
